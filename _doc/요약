@@ -1,0 +1,45 @@
+@OneToMany 단방향에서 따로 조인 설정을 넣어주지 않으면 단방향 @JoinTable 이 적용됨.
+
+@OneToMany @JoinColumn 단방향 매핑
+
+@ManyToOne  @JoinColumn
+    - @JoinColumn 은 생략가능, 생략하면 JPA 는 다음규칙을 적용하여 자동으로 처리한다.
+    - 참조변수 이름 + '_' + 참조하는 테이블의 주 키 칼럼 이름
+
+@ManyToOne
+@JoinColumn(name = "ATTACH_FILE_GROUP_ID", nullable = false)
+    - 생성스크립트
+        alter table attach_file add constraint FK6h6er5dx3y199kysv7j3pw0v0
+        foreign key (attach_file_group_id) references attach_file_group
+    - 부모 레코드 삭제시 자식 레크도 존재시 무결성 제약 조건 오류 발생
+
+
+@ManyToOne
+@JoinColumn(name = "ATTACH_FILE_GROUP_ID", nullable = false, foreignKey = @ForeignKey(NO_CONSTRAINT))
+    - @ForeignKey(NO_CONSTRAINT) 설정하면 foreign key 스크립트 생성 안됨
+
+@ManyToOne
+@OnDelete(action = OnDeleteAction.CASCADE)
+@JoinColumn(name = "ATTACH_FILE_GROUP_ID", nullable = false)
+    - 생성스크립트
+        alter table attach_file add constraint FK6h6er5dx3y199kysv7j3pw0v0
+        foreign key (attach_file_group_id) references attach_file_group
+        on delete cascade
+    - 부모 레코드 삭제시 자식 레코드 자동 삭제됨
+
+* JPA에서는 오라클의 ON DELETE SET NULL 옵션 설정하는 방법이 없음
+ ALTER TABLE 첨부파일
+ 	ADD (CONSTRAINT R_5 FOREIGN KEY (첨부파일그룹ID) REFERENCES 첨부파일그룹 (첨부파일그룹ID) ON DELETE SET NULL);
+
+@ManyToOne
+    속성
+    optional    true                    연관된 엔티티가 반드시 있어야 하는지의 여부를 결정,
+                                        조인방식결정 true: left join, false: inner join
+                                            - 컬럼의 nullable = false 인 경우 optional 속성값과 상관없이 무조건 inner join 으로 됨
+
+    fetch       @ManyToOne: EAGER
+                @OneToMany: LAZY
+    cascade                             영속석 전이 기증을 설정. 연관 엔티티를 같이 저장하거나 삭제할때 사용.
+
+
+https://dublin-java.tistory.com/51
