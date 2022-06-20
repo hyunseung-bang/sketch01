@@ -13,7 +13,7 @@
         $("#ipin").click(function () { ipinCertCreate(); });
         alert("receiveMessage");
         window.addEventListener("message", receiveMessage, false);
- alert("isDebug");
+ alert("isDebug = " + $.isDebug());
         if($.isDebug()) console.log("procSystem = APP01 - ");      
 
        alert("APP01");
