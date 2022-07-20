@@ -1,234 +1,186 @@
+1. 벤티르 령 버프 챙기기
+[공포의 사냥지배자] - 폭발성 덫 밟지 않기
 
-    function isDebug2() {       
-        return false;
+2. 
+[제왕의 안개춤꾼] - 메아리 치는 찌르기 피하기, 탱커가 왼쪽 벽으로 유도
+[공포의 사냥지배자] - 폭발성 덫 밟지 않기
+[탐욕스러운 투사] - 암영 충돌 바닥 피하기
+
+3.
+[걸신들린 진드기]3마리 - 포식 1명씩 맡아서 차단 or CC기
+
+4.
+[걸신들린 진드기]2마리 - 포식 1명씩 맡아서 차단 or CC기
+[탐욕스러운 투사] - 암영 충돌 바닥 피하기
+
+5. 1넴 탐식자 크릭시스 - 첫번째 블러드
+- 포악한 박치기 : 탱커 생존기 올리고 맞기
+- 굶주린 흡수 : 칼차단
+- 육중한 돌격 : 파티원 같이 맞기
+- 절단의 강타 : 멀리 산개, 파티원 체력 보면서 먹기
+
+6. 1넴 위피로 폴링
+[어둠의 수행사제] - 어두운 화살 차단
+[사악한 탄압자] - 억제의 저주 차단, 세면 빠른 저주 해제
+
+7.
+[묘실의 파수병] - 돌가죽 차단 세면 마흠, 절단의 분쇄 탱커 생존기 키기, 바위 파열 바닥 피하기
+
+8. 벤티르 령 쪽으로 폴링
+[고위 감시자] - 암울한 폭발 차단, 공포의 구속 멀리 산개(or 자축, 대마보로 무시)
+[사악한 탄압자] - 억제의 저주 차단, 세면 빠른 저주 해제
+
+9. 도비터 투물로 자블린 방까지 패스
+[수석 관리인 자블린(야스오)] - 휩쓰는 베기(하세기) 머리 방향 회피, 뭉둑한 강타 탱커 생존기 올리고 맞기
+[꾀죄죄한 흙우걱이] - 동기부여 빨갛고 커지면 격노해제
+
+10. 
+[심연의 감시관] - 날카로운 족좨 차단, 분쇄의 일격 탱커 생존기 올리고 맞기
+[연구 필경사] - 폭발성 양피지 바닥 회피, 연구물 던지기 아프니 각자 개인 생존기
+
+11. 벤티르 령 버프 챙기기
+[연구 필경사] - 폭발성 양피지 바닥 회피, 연구물 던지기 아프니 각자 개인 생존기
+[마력 깃든 깃펜] - 불꽃의 주술 차단
+[분노의 잔재] - 폭발적인 분노 차단
+[묘실의 파수병] - 돌가죽 차단 세면 마흠, 절단의 분쇄 탱커 생존기 키기, 바위 파열 바닥 피하기
+
+12
+[심연의 감시관] - 날카로운 족좨 차단, 분쇄의 일격 탱커 생존기 올리고 맞기
+[연구 필경사] - 폭발성 양피지 바닥 회피, 연구물 던지기 아프니 각자 개인 생존기
+
+13
+[연구 필경사] - 폭발성 양피지 바닥 회피, 연구물 던지기 아프니 각자 개인 생존기
+[마력 깃든 깃펜] - 불꽃의 주술 차단
+[분노의 잔재] - 폭발적인 분노 차단
+
+14
+[연구 필경사]2마리 - 폭발성 양피지 바닥 회피, 연구물 던지기 아프니 각자 개인 생존기
+[마력 깃든 깃펜] - 불꽃의 주술 차단
+[분노의 잔재] - 폭발적인 분노 차단
+
+15 벤티르 령 버프 챙기기
+[연구 필경사]2마리 - 폭발성 양피지 바닥 회피, 연구물 던지기 아프니 각자 개인 생존기
+[심연의 감시관] - 날카로운 족좨 차단, 분쇄의 일격 탱커 생존기 올리고 맞기
+[분노의 잔재] - 폭발적인 분노 차단
+[광포한 구울] - 탱커 아품 생존기 없으면 드리블, 광란 격노해제
+
+16. 2넴 집행관 타르볼드 - 두번째 블러드
+- 혹독 대상자 혼자 맞기
+- 찰나의 헌신 최우선 점사, 죽으면 바닥생기니 뒤로 이동
+- 왼쪽, 오늘쪽 구슬
+
+17. 74~75% 맞추고 아래층으로
+[연구 필경사]2마리 - 폭발성 양피지 바닥 회피, 연구물 던지기 아프니 각자 개인 생존기
+[마력 깃든 깃펜] - 불꽃의 주술 차단
+[광포한 구울] - 탱커 아품 생존기 없으면 드리블, 광란 격노해제
+
+18 2마리 3마리 나눠서 잡기
+[사악한 탄압자] - 억제의 저주 차단, 세면 빠른 저주 해제
+
+19 3넴 대감독관 베릴리아 3번째 블러드
+- 우월성의 의례 구슬 먹기
+- 끈없는 고뇌 바닥 피하기
+- 강철 쐐기 탱커 생존기 1개 이상 올리기
+
+20 계단 중간으로 폴링, 다잡고 도비터 패스
+[사악한 탄압자] - 억제의 저주 차단, 세면 빠른 저주 해제
+[공포의 사냥지배자] - 폭발성 덫 밟지 않기
+
+21. 막넴 장군 카알 복도
+[장군카알(100-90%)] - 사악한 질주 대상자 혼자 맞기, 어스름 돌풍 시전시 방패 활성화
+[어둠의 수행사제] - 어두운 화살 차단
+[가르곤] - 탱커 어글 먹기
+
+22. 벤티르 령 버프
+[장군카알(90-80%)] - 사악한 질주 대상자 혼자 맞기, 어스름 돌풍 시전시 방패 활성화
+[어둠의 수행사제] - 어두운 화살 차단
+[가르곤] - 탱커 어글 먹기
+
+
+23
+[장군카알(80-70%)] - 사악한 질주 대상자 혼자 맞기, 어스름 돌풍 시전시 방패 활성화
+[어둠의 수행사제] - 어두운 화살 차단
+[가르곤] - 탱커 어글 먹기
+
+24.
+[묘실의 파수병] - 돌가죽 차단 세면 마흠, 절단의 분쇄 탱커 생존기 키기, 바위 파열 바닥 피하기
+
+25.
+[공포의 사냥지배자] - 폭발성 덫 밟지 않기
+
+26. [장군카알(70-50.3%)]
+- 사악한 질주 대상자 2명 산개해서 맞기
+- 어스름 돌풍 시전시 카알 앞에서 방패 활성화
+- 관통의 진영 첫번째 바닥 깔리는거 보고 옆에서 있다가 바로 들어가기
+
+aura_env.ShadowlandsDungeon = {
+    ["죽음의 상흔"] = {
+        ["generalization"] = "3넴 갈고리 유도가 중요",
+        ["mob"] = "① |cffaaffaa키리안|r 성약의 단은 [상태이상의 거수]를 찾아 버프\n② |cffffaaff[해골 약탈자]|r의 [신경을 긁는 절규] 차단\n③ [키리안 누더기골렘]이 사용하는 탱커 디버프 주의",
+        ["역병뼈닥이"] = "① [오물 구더기] 생기면 일점사\n② 바닥 깔리면 이동\n③ [들썩이는 구토] 브레스 회피",
+        ["아마스"] = "① [되살아난 마법사] [되살아난 석궁수] 생기면 점사\n② 쫄이 시전하는 [연발 얼음 화살] 차단\n③ [괴저 숨결] 브레스 피할 것",
+        ["의사 스티치플레시"] = "① [스티치플레시의 피조물]의 [고기 갈고리]를 [의사 스티치플레시]에게 유도\n② [방부 수액] 바닥 피할 것\n③ [맹독의 집착] 대상자 도망",
+        ["냉기결속사 날토르"] = "① [얼어붙은 구속] 해제\n② [어둠의 추방]으로 내려가면 빠르게 길 반대편 몹 처치 후 용사 클릭\n③ [어둠의 추방]에서 탈출하면 [얼음 장판] 구석에 깔고 합류",
+    },
+    ["승천의 첨탑"] = {
+        ["generalization"] = "4넴에게 창을 잘 맞추면 OK",
+        ["mob"] = "① |cffaaffaa키리안|r 성약의 단은 키리안 시체를 찾아 [운명의 창] 버프\n② |cffffaaff[이탈자 분대장]|r 일점사\n③ 4넴 전 중간 보스는 [아스트로노스] - [클로토스] - [라케시스] 순서로 처치",
+        ["에줄스"] = "① [킨타라]와 [에줄스]사이의 광선 주의\n② [약화의 탄막] 피할 것\n③ [충전된 창] 바닥 주의",
+        ["킨타라"] = "① [킨타라]와 [에줄스]사이의 광선 주의\n② [약화의 탄막] 피할 것\n③ [충전된 창] 바닥 주의",
+        ["벤투낙스"] = "① 탱커는 [어둠의 걸음] 시전 후 생기는 [암흑의 회오리]에서 보스 이동\n② [눈부신 섬광] 시전 시 보스 전방 주의\n③ [재충전]이 시작되면 촘촘히 발사되는 탄막 주의",
+        ["오리프리온"] = "① [최고천의 폭발물]로 생기는 [령의 장] 바닥 밖으로 이동\n② 보스를 [령의 장] 바닥 밖으로 유인\n③ [소진됨] 타이밍에 극딜",
+        ["데보스"] = "① [심연의 폭발] 시전 시 [집정관의 보루] 안으로 이동\n② 2단계 시작하면 [순수한 령] 먹어서 가운데로 이동\n③ [집정관의 창]을 보스에게 정확히 조준 후 발사",
+    },
+    ["역병 몰락지"] = {
+        ["generalization"] = "3넴 쫄 등장시키지 않으면 대형사고 발생",
+        ["mob"] = "① |cffaaffaa강령군주|r 성약의 단은 [쏟아져 나오는 점액, 역병 점액, 응결된 점액]에 [살덩이 창조] 사용해 버프\n② [불완전한 보관통] 폭발에 몬스터가 닿도록 유도\n③ 몹이 [말드락서스의 보루]를 사용하면 바깥으로 유인",
+        ["점액살거수"] = "① [쇠약의 역병] 질병 해제\n② [점액 덩이] 나오면 일점사\n③ [점액 덩이]가 보스에게 닿지 않게 할 것",
+        ["의사 이커스"] = "① 탱커는 [의사 이커스] 가까이 위치\n② [역병 폭탄] [응결된 점액] 우선 점사\n③ [점액 주입] 해제는 다른 쫄이 없을 때 할 것",
+        ["도미나 베놈블레이드"] = "① [홀로 떨어진 먹잇감] 대상은 다른 아군 가까이 이동\n② [거미줄 올가미]가 보이면 점사해 갇힌 아군 구출\n③ [혈족 암살자] 생기면 거미줄을 밟아 몬스터 팝업",
+        ["후작 스트라다마"] = "① 탱커가 [점액의 손길] 바닥 혼자 맞을 것\n② [역병결합 헌신자]가 나오면 거리 벌리고 처리\n③ [역병 붕괴]가 시작되면 초록 불이 들어온 촉수 앞 피할 것",
+    },
+    ["고통의 투기장"] = {
+        ["generalization"] = "일반 몬스터 구간이 어려워 특별히 6줄",
+        ["mob"] = "① |cffaaffaa강령군주|r 성약의 단은 [강령군주의 깃발] 오브젝트를 찾아 클릭해 버프\n② 2넴으로 가는 길 중간 보스가 사용하는 |cffffaaff[사기의 외침]|r 차단\n③ |cffffaaff[고대의 대장]|r 일점사\n④ |cffffaaff[파멸의 오물분출자]|r의 [메마른 방출] 차단\n⑤ [썩은 가스주머니]의 [끔찍한 분출]은 앞뒤를 조심\n⑥ |cffffaaff[사악한 암흑예언자]|r가 무작위 아군에게 쓰는 [죽음풍] 넉백 낙사 주의",
+        ["참수자 데시아"] = "① [참수자 데시아]의 [격노] 대상은 계속 이동해 거리 유지\n② [맹독의 파세란]이 생성하는 [포자 웅덩이] 바닥 피할 것\n③ [저주받은 자 사델] 생명력 40% 이상으로 유지 후 마지막에 처치",
+        ["맹독의 파세란"] = "① [참수자 데시아]의 [격노] 대상은 계속 이동해 거리 유지\n② [맹독의 파세란]이 생성하는 [포자 웅덩이] 바닥 피할 것\n③ [저주받은 자 사델] 생명력 40% 이상으로 유지 후 마지막에 처치",
+        ["저주받은 자 사델"] = "① [참수자 데시아]의 [격노] 대상은 계속 이동해 거리 유지\n② [맹독의 파세란]이 생성하는 [포자 웅덩이] 바닥 피할 것\n③ [저주받은 자 사델] 생명력 40% 이상으로 유지 후 마지막에 처치",
+        ["선혈토막"] = "① 벽에서 다가오는 [고기 갈고리] 빈 곳 찾아 이동\n② [진물 찌꺼기] 구석에서 처리해 바닥을 외곽에 유도\n③ [다지기 강타] 원 바깥으로 이동",
+        ["몰락하지 않은 자 자브"] = "① [압제의 깃발] 먼저 처리\n② 딜러는 [핏빛 영광]에서 빠르게 결투 완료\n③ [핏빛 영광]이 끝나고 쿨기 사용",
+        ["쿨타로크"] = "① [영혼 끌어내기]를 당하면 빠르게 자신의 영혼 찾을 것\n② 영혼을 찾고 나면 쿨기 사용\n③ [환상의 기생충] 걸리면 이격",
+        ["무한의 여제 모르드레타"] = "① [죽음의 발현]이 시작되면 서로 6미터 이격한 채로 가까이에 모여서 [죽음방랑자] 소환\n② 돌진해오는 [유령 전투원] 주의\n③ [살육의 메아리]로 끌어당겨 지면 멀리 이동",
+    },
+    ["속죄의 전당"] = {
+        ["generalization"] = "1넴 원 안에서 전투해야 하는 점 주의",
+        ["mob"] = "① |cffaaffaa벤티르|r 성약의 단은 [충직한 돌숨결] 정신지배\n② |cffffaaff[흉포한 가르곤]|r은 탱커에게 큰 피해를 입히므로 일점사\n③ [심문관 시가르] 만나면 [고통받는 영혼]부터 처리",
+        ["할키아스"] = "① 보스 근처 원 안으로 전부 이동\n② [유리 바닥] 많이 깔리면 보스 이동\n③ [굴절된 죄악의 빛] 회전 방향이 바뀌므로 주의",
+        ["에첼론"] = "① [불멸의 돌마귀]가 모이도록 유도하며 점사\n② [불멸의 돌마귀] 시체 근처에 [바위 분쇄의 도약] 유도\n③ [돌의 저주] 타이밍과 [바위 분쇄의 도약]이 겹치므로 도약 대상자 빠르게 이동",
+        ["대심판관 알리즈"] = "① [섬뜩한 교구민] 주시 대상자는 [속죄의 그릇] 뒤로 이동\n② 보스가 사용하는 기술 차단\n③ 광역 피해가 많으므로 파티원 힐 집중",
+        ["시종장"] = "① [염력 투척] 시전하면 지속적으로 이동해 석상 회피\n② [맹공의 염력] 때 당겨지는 석상의 경로가 예측하기 어려우니 근접 직업 주의\n③ 파티원 4명이 [비통의 의식] 광선 대신 맞을 것",
+    },
+    ["저편"] = {
+        ["generalization"] = "4넴 포탈을 빨리 타는 것이 핵심",
+        ["mob"] = "① |cffaaffaa나이트 페이|r 사용자는 [원혼의 단지] 클릭해 30미터 내 적 기절\n② [사술] [치유] 주문 차단\n③ |cffffaaff[사용 중지된 치과용 천공기]|r는 벽 근처에서 탱킹 후 [통제 불능] 사용 시 시야 밖으로 피신",
+        ["영혼약탈자 학카르"] = "① [오염된 피] 대상자 이격\n② [피의 방벽] 시전 시 빠르게 딜해 보호막 제거\n③ [학카르의 자손] 점사",
+        ["밀리피센트 마나스톰"] = "① 밀하우스의 [압도적인 힘] 광선 대신 맞을 것\n② 밀리피센트가 [실험용 다람쥐 폭탄]을 소환하면 클릭해 해체\n③ 밀하우스 [분출]을 밀리피센트에게, 밀리피센트 [어둠의 격노]를 밀하우스에게 유도",
+        ["밀하우스 마나스톰"] = "① 밀하우스의 [압도적인 힘] 광선 대신 맞을 것\n② 밀리피센트가 [실험용 다람쥐 폭탄]을 소환하면 클릭해 해체\n③ 밀하우스 [분출]을 밀리피센트에게, 밀리피센트 [어둠의 격노]를 밀하우스에게 유도",
+        ["무역업자 자이엑사"] = "① [변위 덫] 평소에 밟지 않을 것\n② [폭파 장치] 시전 시 [변위 덫]을 밟아 회피\n③ [국지적 폭파 장치] 대상자는 [변위 덫]을 밟을 것",
+        ["무에젤라"] = "① [죽음의 지배자] 시전 시 보스 손 보고 반대편으로 이동\n② [현실 분쇄] 시전 시 단상에 생기는 포탈로 빨리 이동\n③ 포탈 이동 후 무에젤라의 환영 처치",
+    },
+    ["핏빛 심연"] = {
+        ["generalization"] = "일반 구간 및 보스전에서 제랄리의 정수 사용이 중요",
+        ["mob"] = "- |cffaaffaa벤티르|r 령 감옥 활성화 가능\n① |cffffaaff[고위 감시자]|r 일점사\n② 3넴 처치 후 [제랄리의 정수] 탱커가 획득\n③ 장군 카알과 같이 전투할 때 카알의 |cffffaaff[어스름 돌풍]|r에 맞춰 [제랄리의 정수] 사용하기",
+        ["탐식자 크릭시스"] = "① [절단의 강타] 시전 시 거리 벌릴 것\n② [절단의 강타] 후 생기는 [생명의 정수] 획득\n③ [육중한 돌격] 파티원이 같이 맞을 것",
+        ["집행관 타르볼드"] = "① 양 벽을 타고 돌아다니는 [죄악에 물든 령] 바닥 주의\n② [찰나의 현신] 일점사\n③ [혹독] 대상자 이격",
+        ["대감독관 베릴리아"] = "① [우월성의 의례] 시전 시 바닥에 있는 [광휘의 파편] 1인당 3개씩 획득\n② [고통 어린 탄식] 바닥 피할 것\n③ 탱커는 [강철 쐐기]에 생존기 사용",
+        ["장군 카알"] = "① 기력 100이 되면 사용하는 [어스름 돌풍]에 맞춰 [제랄리의 정수] 사용 후 방벽 안으로 이동\n② [사악한 질주] 대상자 이격\n③ 보스 방을 3분할하는 [관통의 잔영] 광선 주의",
+    },
+    ["티르너 사이드의 안개"] = {
+        ["generalization"] = "미로 찾기 숙달 필요",
+        ["mob"] = "- |cffaaffaa나이트 페이|r 입구와 1넴 앞 문 개방 가능\n① [티르넨 주민]이 사용하는 [혼란의 꽃가루] 피할 것\n② 미로 구간에서 |cffaaaaff'모양, 테두리, 채색'|r 여부 체크하고 공통점이 없는 하나를 찾아 출구 확인\n③ [가시아귀 사슴뿔]이 사용하는 [재생 촉진] 차단",
+        ["잉그라 말로크"] = "① [수풀사령관 울파란] 일점사\n② 울파란이 아군이 되면 버프 받고 쿨기 사용\n③ [숲의 눈물] 바닥 피할 것",
+        ["수풀사령관 울파란"] = "① [수풀사령관 울파란] 일점사\n② 울파란이 아군이 되면 버프 받고 쿨기 사용\n③ [숲의 눈물] 바닥 피할 것",
+        ["미스트콜러"] = "① [알아맞히기] 시전 시 '모양, 테두리, 채색' 여부 체크하고 공통점이 없는 하나 일점사\n② [피구] 피할 것\n③ [손바닥치기] 대상자는 미스트콜러 차단",
+        ["트레도바"] = "① [정신의 연결]에 걸리면 두 대상자는 빠르게 거리 벌릴 것\n② [게걸충 애벌레] 생성되면 일점사\n③ [기생충] 일점사",
     }
-    function userAgentInfo2() {
-        return new MobileDetect(window.navigator.userAgent);
-    }
-    function isMobile2() {
-        return false
-    }
-    $(function() {
-
-        $( document ).ajaxStart(function() {
-            $("#loadingBar").addClass('active');
-        });
-        $( document ).ajaxStop(function() {
-            $("#loadingBar").removeClass('active');
-        });
-        $( document ).ajaxSend(function( event, jqxhr, settings ) {
-
-        });
-        $( document ).ajaxSuccess(function( event, xhr, settings ) {
-
-        });
-        $( document ).ajaxComplete(function( event, xhr, settings ) {
-            if( isDebug2() ) { console.log("4. ajaxComplete"); console.log(xhr.responseJSON); }
-        });
-        $( document ).ajaxError(function( event, jqxhr, settings, thrownError ) {
-            if( isDebug2() ) { console.log("ajaxError"); }
-        });
-    });
-
-    function popup_close_event(target) {
-        $(target).on('click', function () {
-            popup_close(this);
-        });
-    }
-    function popup_close(target) {
-        if($(target).closest('.popup').length > 0) {
-            $(target).closest('.popup').removeClass('on');
-            /* popup - motion */
-            if ($(target).closest('.popup').hasClass('motion')) {
-                $(target).closest('.motion').find('.popup-dim').fadeOut("100", function() {$(this).remove();});
-            }
-            /* popup-toast */
-            if ($(target).closest('.popup').is('.popup-toast')) return;
-            scrollOff();
-        }
-    }
-
-    $(function () {
-        alert("initJoinHeader s");
-
-        initJoinHeader(1);
-
-        initLanguage();
-
-        loadNotice();
-        $("#phone").click(function () { kmcCertCreate(); });
-        $("#ipin").click(function () { ipinCertCreate(); });
-        window.addEventListener("message", receiveMessage, false);
-
-        if(isDebug2()) console.log("procSystem = APP01 - ");
-
-        if( "APP01" ) {
-            if(isDebug2()) console.log("SET procSystem - APP01 - ");
-            sessionStorage.setItem("procSystem", "APP01");
-            sessionStorage.setItem("userAgent", "");
-        }
-
-        if( localStorage.getItem("SPS") ) {
-            if(isDebug2()) console.log("SET SPS procSystem - " + localStorage.getItem("SPS"));
-            sessionStorage.setItem("procSystem", localStorage.getItem("SPS"));
-        }
-
-    });
-    function initLanguage() {
-        if( !g_lang || g_lang == "ko") {
-            $("#language-ko").hide();
-            $("#language-en").show();
-        } else {
-            $("#language-ko").show();
-            $("#language-en").hide();
-        }
-        $("#language-ko").click(function() {
-            $.get('/language-change/ko').done(function(result) { location.reload(); });
-        });
-        $('#language-en').click(function() {
-            $.get('/language-change/en').done(function(result) { location.reload(); });
-        });
-    }
-    function loadNotice() {
-        $.get("/member-join-notice").done(function (response) {
-            $(".mo-note").html(`<img src="${response.data.appImgPath}"/>`);
-            $(".pc-note").html(`<img src="${response.data.webImgPath}"/>`);
-        });
-    }
-    function receiveMessage(event) {
-        if( isDebug2() ) { console.log("인증결과수신"); console.log(event) }
-        if( event && event.data && event.data.success ) {
-            memberJoinAvail();
-        } else {
-            alert("인증 정보가 존재하지 않습니다.");
-        }
-    }
-    function memberJoinAvail() {
-        if( isDebug2() ) { console.log("회원가입 가능여부 체크");  }
-        $.get("/member-join-avail").done(function(response) {
-            if(isDebug2()) { console.log(response);  }
-            if(!response.success) {
-                alert(response.errMessage);
-                return;
-            }
-            if( response.data.status == "NEW" ) {
-                location.href = "/member-join-form";
-            } else {
-                memberJoinNot(response.data.status, response.data.cardNo, response.data.joinDtFmt, response.data.reJoinDtFmt);
-            }
-        });
-    }
-    function kmcCertCreate() {
-        $.post("/kmc-cert-create").done(function (response) {
-            if( isDebug2() ) console.log(response);
-            if(response.success) {
-                openKmcCertWindow(response.data);
-            } else {
-                alert("인증정보 생성중 일시적 장애가 발생 했습니다. 잠시후 다시 시도해 주세요.");
-            }
-        });
-    }
-    function openKmcCertWindow(data) {
-        if( isDebug2() ) console.log(data);
-        $("input[name='tr_cert']").val(data.tr_cert);
-        $("input[name='tr_url']").val(data.tr_url);
-        $("input[name='tr_add']").val(data.tr_add);
-
-        if( isMobile2() ) {
-            document.reqKMCISForm.target = "_blank";
-            document.reqKMCISForm.action = "https://www.kmcert.com/kmcis/web/kmcisReq.jsp";
-            document.reqKMCISForm.submit();
-        } else {
-            var KMCIS_window = window.open("", "KMCISWindow", "width=425, height=550, resizable=0, scrollbars=no, status=0, titlebar=0, toolbar=0, left=435, top=250");
-            if (KMCIS_window == null) {
-                alert("※ 화면 상단에 있는 팝업 차단 알림줄을 클릭하여 팝업을 허용해 주시기 바랍니다.");
-                return;
-            }
-            document.reqKMCISForm.target = "KMCISWindow";
-            document.reqKMCISForm.action = "https://www.kmcert.com/kmcis/web/kmcisReq.jsp";
-            document.reqKMCISForm.submit();
-        }
-    }
-    function ipinCertCreate() {
-        if( isDebug2() ) console.log("아이핀 인증데이터 생성");
-        $.post("/ipin-cert-create").done(function (response) {
-            if( isDebug2() ) console.log(response);
-            if(response.success) {
-                openIPinCertWindow(response.data)
-            } else {
-                alert("인증정보 생성중 일시적 장애가 발생 했습니다. 잠시후 다시 시도해 주세요.");
-            }
-        });
-    }
-    function openIPinCertWindow(data) {
-        $("#enc_data").val(data);
-        if( isMobile2() ) {
-            document.form_ipin.target = "_blank";
-            document.form_ipin.action = "https://cert.vno.co.kr/ipin.cb";
-            document.form_ipin.submit();
-        } else {
-            var certWindow = window.open('', 'popupIPIN2', 'width=450, height=550, top=100, left=100, fullscreen=no, menubar=no, status=no, toolbar=no, titlebar=yes, location=no, scrollbar=no');
-            if (certWindow == null) {
-                alert("※ 화면 상단에 있는 팝업 차단 알림줄을 클릭하여 팝업을 허용해 주시기 바랍니다.");
-                return;
-            }
-            document.form_ipin.target = "popupIPIN2";
-            document.form_ipin.action = "https://cert.vno.co.kr/ipin.cb";
-            document.form_ipin.submit();
-        }
-    }
-    function memberJoinNot(status, cardNo, joinDtFmt, reJoinDtFmt) {
-        $("#member-join-not").remove();
-        var title, text, item;
-        if( status == "AGE") {
-            title = "만14세 미만";
-            text = "고객님께서는<br/>만 14세 미만이므로 가입이 불가합니다.";
-            item = "";
-        } else if( status == "WDRL") {
-            title = "탈퇴 회원";
-            text = "고객님께서는<br/>얼마전에 탈퇴하셨군요.<br/>탈퇴후 5일 이후부터 가입 가능 합니다.";
-            item = "<div class='alert-infor'><div class='form-ipt row'>"
-                 + "    <dl class='form-item'><dt class='entry'>재가입 가능일시</dt>"
-                 + "    <dd class='comp'>" + reJoinDtFmt + "</dd></dl>"
-                 +"</div></div>";
-        } else if( status == "DUP") {
-            title = "기존 회원";
-            text = "고객님께서는<br/>기존 가입자이므로 신청이 불가합니다.";
-            item = "<div class='alert-infor'><div class='form-ipt row'>"
-                 + "    <dl class='form-item'><dt class='entry'>멤버십 번호</dt><dd class='comp'>" + cardNo + "</dd></dl>"
-                 + "    <dl class='form-item'><dt class='entry'>가입일</dt><dd class='comp'>" + joinDtFmt + "</dd></dl>"
-                 + "</div></div>";
-        } else {
-            alert("NO");
-        }
-
-        var temp = ''
-        + '<div id="member-join-not" class="popup sm type1 motion up on">'
-        + '    <div class="popup-inner">'
-        + '        <div class="popup-header">'
-        + '            <h3 class="popup-title">' + title + '</h3>'
-        + '            <span class="btn-popup-close"><button type="button"><span class="hide">닫기</span></button></span>'
-        + '        </div>'
-        + '        <div class="popup-body">'
-        + '            <div class="popup-body-inner">'
-        + '                <div class="join-alert">'
-        + '                    <div class="join-alert-inner">'
-        + '                        <div class="alert-title">'
-        + '                            <p class="text">' + text + '</p>'
-        + '                        </div>'
-        +                          item
-        + '                    </div>'
-        + '                </div>'
-        + '            </div>'
-        + '        </div>'
-        + '        <div class="popup-btn">'
-        + '            <div class="popup-btn-inner">'
-        + '                <span class="btn btn-popup-close"><button type="button">확인</button></span>'
-        + '            </div>'
-        + '        </div>'
-        + '    </div>'
-        + '</div>';
-        $(document.body).append(temp);
-        popup_open("#member-join-not");
-        popup_close_event(".btn-popup-close button");
-    }
+}
